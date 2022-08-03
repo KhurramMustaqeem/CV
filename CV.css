@@ -10,3 +10,33 @@ p {
 .circle {
     clip-path: circle();
 }
+.container{
+    display: flex;
+    flex-direction:column ;
+width: 70%;
+border: 2px black solid;
+background-color: white;
+padding: 50px;
+}
+.body{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: grey
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    ;
+  
+}
